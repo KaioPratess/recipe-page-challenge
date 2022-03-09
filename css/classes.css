@@ -1,0 +1,29 @@
+:root {
+  --gray-1: #333333;
+  --gray-2: #4f4f4f;
+  --gray-3: #828282;
+  --gray-4: #bdbdbd;
+  --black: #000000;
+  --orange: #f2994a;
+  --w: #ffffff;
+}
+
+.title-b {
+  font: 700 3rem "Playfair Display", serif;
+}
+
+.title-m {
+  font: 700 1.5rem "Playfair Display", serif;
+}
+
+.title-s {
+  font: italic 400 1.125rem "Playfair Display", serif;
+}
+
+.text-italic {
+  font: italic 500 1rem/17.07px "Montserrat", sans-serif;
+}
+
+.text-normal {
+  font: normal 500 1rem/24px "Montserrat", sans-serif;
+}
